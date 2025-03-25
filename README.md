@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="about_me">
 <h1>Hello! I’m João Emanuel, I have 19 years old, and I’m a Brazilian Software Engineering student<a href="https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/64px-Flag_of_Brazil.svg.png?20240809055211"></a>.</h1>
