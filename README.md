@@ -3,7 +3,7 @@
 </div>
 <div id="about_me">
 <h1>Hello! I’m João Emanuel, I have 19 years old, and I’m a Brazilian Software Engineering student <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/64px-Flag_of_Brazil.svg.png?20240809055211"></a>.</h1>
-<p>I'm pursuing a Bachelor’s degree in Software Engineering. at Católica - SC (2nd semester) <br>
+<p>I'm pursuing a Bachelor’s degree in Software Engineering. at Católica - SC (4nd semester) <br>
 Studying to become a Web Developer and Full Stack Developer 📚💻</p>
 </div>
 
